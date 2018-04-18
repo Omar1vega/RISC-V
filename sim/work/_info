@@ -1,0 +1,439 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/users/ugrad/2016/fall/vegao1/lab22/sim
+vadder
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1520244597
+!i10b 1
+!s100 ijVXn`j8gkb?JEem_D[5R0
+I4@bLYo9U3WcUfQac[eENB1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 adder_sv_unit
+S1
+Z3 d/users/ugrad/2016/fall/vegao1/112Lab2/sim
+Z4 w1519970522
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/adder.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/adder.sv
+L0 3
+Z5 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z6 !s108 1520244596.000000
+Z7 !s107 /users/ugrad/2016/fall/vegao1/112Lab2/design/mux4.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/WBController.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/andGate.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/brController.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/RISC_V.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/Datapath.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/Controller.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/RegFile.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/alu.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/ALUController.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/instructionmemory.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/datamemory.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/mux2.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/imm_Gen.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/flopr.sv|/users/ugrad/2016/fall/vegao1/112Lab2/design/adder.sv|
+Z8 !s90 -quiet|-64|-sv|-f|/users/ugrad/2016/fall/vegao1/112Lab2/design/rtl.cfg|
+!i113 0
+Z9 o-quiet -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+valu
+R0
+R1
+!i10b 1
+!s100 La5YS33Z6@9IV2SWTDZ<81
+IT_g0Uk_AQjCMILD>M:HGj0
+R2
+Z10 !s105 alu_sv_unit
+S1
+R3
+w1520239772
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/alu.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/alu.sv
+Z11 L0 23
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+valu2
+R0
+!s110 1519988896
+!i10b 1
+!s100 [R:jY_of]_^l:OIVTcJG53
+IJhc^^8=e0LI@QONRQ420G0
+R2
+R10
+S1
+d/users/ugrad/2016/fall/vegao1/New1/sim
+w1519975562
+8/users/ugrad/2016/fall/vegao1/New1/design/alu2.sv
+F/users/ugrad/2016/fall/vegao1/New1/design/alu2.sv
+R11
+R5
+r1
+!s85 0
+31
+!s108 1519988896.000000
+!s107 /users/ugrad/2016/fall/vegao1/New1/design/alu2.sv|/users/ugrad/2016/fall/vegao1/New1/design/WBController.sv|/users/ugrad/2016/fall/vegao1/New1/design/andGate.sv|/users/ugrad/2016/fall/vegao1/New1/design/brController.sv|/users/ugrad/2016/fall/vegao1/New1/design/RISC_V.sv|/users/ugrad/2016/fall/vegao1/New1/design/Datapath.sv|/users/ugrad/2016/fall/vegao1/New1/design/Controller.sv|/users/ugrad/2016/fall/vegao1/New1/design/RegFile.sv|/users/ugrad/2016/fall/vegao1/New1/design/alu.sv|/users/ugrad/2016/fall/vegao1/New1/design/ALUController.sv|/users/ugrad/2016/fall/vegao1/New1/design/instructionmemory.sv|/users/ugrad/2016/fall/vegao1/New1/design/datamemory.sv|/users/ugrad/2016/fall/vegao1/New1/design/mux2.sv|/users/ugrad/2016/fall/vegao1/New1/design/imm_Gen.sv|/users/ugrad/2016/fall/vegao1/New1/design/flopr.sv|/users/ugrad/2016/fall/vegao1/New1/design/adder.sv|
+!s90 -quiet|-64|-sv|-f|/users/ugrad/2016/fall/vegao1/New1/design/rtl.cfg|
+!i113 0
+R9
+vALUController
+R0
+R1
+!i10b 1
+!s100 >O447NJg@Q<XW;TZkm^>Y3
+I8n1Okd:QfekNO1OSb[j?g0
+R2
+!s105 ALUController_sv_unit
+S1
+R3
+w1520233722
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/ALUController.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/ALUController.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@a@l@u@controller
+vandGate
+R0
+R1
+!i10b 1
+!s100 aKHd7_WPbaJb3@I@MKCiG0
+IfmMC0ZfHI^0XiXz1WC@8Q0
+R2
+!s105 andGate_sv_unit
+S1
+R3
+R4
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/andGate.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/andGate.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+nand@gate
+vbrController
+R0
+R1
+!i10b 1
+!s100 AG241L?mmIf[aO^3iZblI0
+IOJKX2hO1l2_9^`CCF<ziT2
+R2
+!s105 brController_sv_unit
+S1
+R3
+w1519988869
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/brController.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/brController.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+nbr@controller
+vController
+R0
+R1
+!i10b 1
+!s100 8>ODkDfS7<aBYNFTjG__U2
+IKWC_e:A`^0d^YZ8UfI>962
+R2
+!s105 Controller_sv_unit
+S1
+R3
+w1520241235
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/Controller.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/Controller.sv
+Z12 L0 22
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@controller
+vdatamemory
+R0
+R1
+!i10b 1
+!s100 Xm^U92mX3OH8N]1YA`jY20
+I4iB8SCPzCDo`QQ<2A[zL83
+R2
+!s105 datamemory_sv_unit
+S1
+R3
+w1520238686
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/datamemory.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/datamemory.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vDatapath
+R0
+R1
+!i10b 1
+!s100 dbYId=A]6K1DeGa:3;Yid3
+I=5Bag]dUVf<]9dPi:oIo`2
+R2
+!s105 Datapath_sv_unit
+S1
+R3
+w1520240870
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/Datapath.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/Datapath.sv
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@datapath
+vflopr
+R0
+R1
+!i10b 1
+!s100 B6BS^>`X=WIeQVmG9i5VI0
+IV?`Ez4aIK@gM:R1YRgoiZ3
+R2
+!s105 flopr_sv_unit
+S1
+R3
+R4
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/flopr.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/flopr.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vimm_Gen
+R0
+R1
+!i10b 1
+!s100 9?LDa@Ba:G?dHkfPA^63f3
+IDO9@z<[MmWR<47VJU2ENW0
+R2
+!s105 imm_Gen_sv_unit
+S1
+R3
+w1520241078
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/imm_Gen.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/imm_Gen.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+nimm_@gen
+vinstructionmemory
+R0
+R1
+!i10b 1
+!s100 :BdEkYH7nN0^1PKOzRah[0
+IJYLn?E90;<U5l8IcLIQFD0
+R2
+!s105 instructionmemory_sv_unit
+S1
+R3
+w1520242238
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/instructionmemory.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/instructionmemory.sv
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vmux2
+R0
+R1
+!i10b 1
+!s100 @X6>V^M3YMfab:XdY67SE1
+II`]?8j<Fk7<ilR>AoZK<C2
+R2
+!s105 mux2_sv_unit
+S1
+R3
+R4
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/mux2.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/mux2.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vmux4
+R0
+R1
+!i10b 1
+!s100 D1Y`DU]LJ@mUFe0@Z4VCK0
+ITVWLSgi>efH?WK5O0gFLo0
+R2
+!s105 mux4_sv_unit
+S1
+R3
+R4
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/mux4.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/mux4.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vRegFile
+R0
+R1
+!i10b 1
+!s100 62UW1Z<;ndRe@OHQfjNU62
+I_?h1^V?8lji2l^;58l=V?1
+R2
+!s105 RegFile_sv_unit
+S1
+R3
+w1519990166
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/RegFile.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/RegFile.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@reg@file
+vriscv
+R0
+R1
+!i10b 1
+!s100 Am9fF9[lWZ6W3BF@3>LQ[2
+ITRhUg2JloF<h3HblXkiQf2
+R2
+!s105 RISC_V_sv_unit
+S1
+R3
+w1520227778
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/RISC_V.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/RISC_V.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vtb_top
+R0
+R1
+!i10b 1
+!s100 @P3O>SoQ_R?RIBQc@aZ7D1
+Iz?K_lRW4nb55SE;zz7z`<0
+R2
+!s105 tb_top_sv_unit
+S1
+R3
+w1520242331
+8/users/ugrad/2016/fall/vegao1/112Lab2/verif/tb_top.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/verif/tb_top.sv
+L0 3
+R5
+r1
+!s85 0
+31
+!s108 1520244597.000000
+!s107 /users/ugrad/2016/fall/vegao1/112Lab2/verif/tb_top.sv|
+!s90 -quiet|-64|-sv|-f|/users/ugrad/2016/fall/vegao1/112Lab2/verif/tb.cfg|-work|work|
+!i113 0
+o-quiet -sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Ttb_top_opt
+R1
+Vn;[0E]>71]NMf1GK5g?_A3
+04 6 4 work tb_top fast 0
+o-quiet +acc -work work
+ntb_top_opt
+OL;O;10.4c;61
+vWBController
+R0
+R1
+!i10b 1
+!s100 ?aJ;P]j;gaQ`5Xg7zS]7F2
+I<?[E`R?JVB[3XW^Y[=odW1
+R2
+!s105 WBController_sv_unit
+S1
+R3
+w1520241375
+8/users/ugrad/2016/fall/vegao1/112Lab2/design/WBController.sv
+F/users/ugrad/2016/fall/vegao1/112Lab2/design/WBController.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@w@b@controller

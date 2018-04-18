@@ -1,0 +1,51 @@
+Information: Propagating switching activity (medium effort zero delay simulation). (PWR-6)
+Warning: Design has unannotated primary inputs. (PWR-414)
+Warning: Design has unannotated sequential cell outputs. (PWR-415)
+ 
+****************************************
+Report : power
+        -hier
+        -analysis_effort medium
+        -verbose
+Design : riscv
+Version: J-2014.09-SP4
+Date   : Fri Mar  2 14:12:50 2018
+****************************************
+
+
+Library(s) Used:
+
+    saed32lvt_tt1p05vn40c (File: /users/ugrad2/2012/spring/pooriam/libraries/saed32lvt_tt1p05vn40c.db)
+
+
+Operating Conditions: tt1p05vn40c   Library: saed32lvt_tt1p05vn40c
+Wire Load Model Mode: enclosed
+
+Design        Wire Load Model            Library
+------------------------------------------------
+riscv                  280000            saed32lvt_tt1p05vn40c
+Datapath               280000            saed32lvt_tt1p05vn40c
+instructionmemory      8000              saed32lvt_tt1p05vn40c
+RegFile                16000             saed32lvt_tt1p05vn40c
+datamemory             280000            saed32lvt_tt1p05vn40c
+
+
+Global Operating Voltage = 1.05 
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000ff
+    Time Units = 1ns
+    Dynamic Power Units = 1uW    (derived from V,C,T units)
+    Leakage Power Units = 1pW
+
+
+--------------------------------------------------------------------------------
+                                       Switch   Int      Leak     Total
+Hierarchy                              Power    Power    Power    Power    %
+--------------------------------------------------------------------------------
+riscv                                   128.452 2.79e+04 1.74e+11 2.02e+05 100.0
+  dp (Datapath)                         127.146 2.79e+04 1.74e+11 2.02e+05 100.0
+    data_mem (datamemory)                59.990 2.61e+04 1.60e+11 1.86e+05  92.1
+    rf (RegFile)                         30.892 1.66e+03 1.08e+10 1.25e+04   6.2
+    instr_mem (instructionmemory)         4.959    7.884 2.95e+08  307.352   0.2
+1
